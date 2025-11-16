@@ -1,2 +1,2 @@
-# TF2-Paint-Program
-Team Fortress 2-themed paint program. (2019)
+# 2D-Shooter-Scroller Game
+2D scroller game made using pygame library. (2019)
